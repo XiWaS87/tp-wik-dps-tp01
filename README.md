@@ -1,5 +1,4 @@
 # tp-wik-dps-tp01
-Bien sûr ! Voici un exemple de fichier README.md pour le code que vous avez fourni :
 
 # Express Ping Server
 
